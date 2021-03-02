@@ -6,5 +6,5 @@ Aplikasi android sederhana yang menampilkan daftar list nama nama kru bajak laut
 ![3](https://user-images.githubusercontent.com/46962764/109639292-940fe780-7b81-11eb-9f0a-5c7168cb5115.PNG)
 ![4](https://user-images.githubusercontent.com/46962764/109639278-9114f700-7b81-11eb-9e84-21b4cda32cfe.PNG)
 
-Project ini dibuat untuk menyelesaikan submission "Belajar Membuat Aplikasi Android untuk Pemula" yang merupakan salah satu modul yang terdapat di Dicoding Indonesia sebagai prasyarat menyelesaikan pelatihan Bangkit Academy 2021
+Project ini dibuat untuk menyelesaikan submission "Belajar Membuat Aplikasi Android untuk Pemula" yang merupakan salah satu modul yang terdapat di Dicoding Indonesia sebagai prasyarat menyelesaikan pelatihan Bangkit Academy 2021.
 
